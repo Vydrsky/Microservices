@@ -1,6 +1,11 @@
 var builder = WebApplication.CreateBuilder(args);
+
+//DI
+
+
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+//Middleware Pipeline
 
-app.Run();
+
+await app.RunAsync();
