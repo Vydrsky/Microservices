@@ -3,28 +3,92 @@
   "WorkspaceRootPath": "D:\\Microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\updateproduct\\updateproductfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\updateproduct\\updateproductfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\getproductsbycategory\\getproductsbycategoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\getproductsbycategory\\getproductsbycategoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.utility\\extensions\\carterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.utility\\extensions\\carterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\getproductsbycategory\\getproductsbycategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\getproductsbycategory\\getproductsbycategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\createproduct\\createproductfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\createproduct\\createproductfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\getproductbyid\\getproductbyidfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\getproductbyid\\getproductbyidfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\features\\products\\getproducts\\getproductsfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\features\\products\\getproducts\\getproductsfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146AC6E-2204-4F85-90BC-2F61612108FE}|docker-compose.dcproj|d:\\microservices\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A146AC6E-2204-4F85-90BC-2F61612108FE}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146AC6E-2204-4F85-90BC-2F61612108FE}|docker-compose.dcproj|d:\\microservices\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A146AC6E-2204-4F85-90BC-2F61612108FE}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146AC6E-2204-4F85-90BC-2F61612108FE}|docker-compose.dcproj|d:\\microservices\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A146AC6E-2204-4F85-90BC-2F61612108FE}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98153B2E-DA8F-47CF-AA05-4BECA5EFAF8F}|src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.abstractions\\sharedkernel.abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{98153B2E-DA8F-47CF-AA05-4BECA5EFAF8F}|src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.abstractions\\sharedkernel.abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.utility\\extensions\\carterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.utility\\extensions\\carterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{96F2EB82-FFEC-4093-8697-D21C0E4606A1}|src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.utility\\sharedkernel.utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98153B2E-DA8F-47CF-AA05-4BECA5EFAF8F}|src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj|d:\\microservices\\src\\sharedkernel\\sharedkernel.abstractions\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,14 +107,6 @@
       "RelativeMoniker": "D:0:0:{98153B2E-DA8F-47CF-AA05-4BECA5EFAF8F}|src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj|solutionrelative:src\\sharedkernel\\sharedkernel.abstractions\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\microservices\\src\\services\\catalog\\catalog.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24178154-F440-4632-A5EB-6668F9E26571}|src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -62,49 +118,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductFeature.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductFeature.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductFeature.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductFeature.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:13:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProductEndpoint.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:13:31.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SharedKernel.Utility",
-              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-29T20:34:22.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarterExtensions.cs",
-              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
-              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
-              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Title": "GetProductsByCategoryFeature.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryFeature.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryFeature.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryFeature.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:32:38.187Z",
+              "WhenOpened": "2024-12-30T21:56:28.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IQueryHandler.cs",
-              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
-              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
-              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
+              "DocumentIndex": 7,
+              "Title": "GetProductsEndpoint.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:59:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Microservices\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "D:\\Microservices\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T19:40:18.918Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T16:25:55.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "IQuery.cs",
               "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQuery.cs",
@@ -112,12 +195,11 @@
               "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T19:40:18.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T19:40:18.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommandHandler.cs",
@@ -125,12 +207,11 @@
               "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T19:40:16.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T19:40:16.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
@@ -138,57 +219,30 @@
               "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T19:37:56.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T19:37:56.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SharedKernel.Utility",
-              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-29T19:24:44.879Z",
+              "DocumentIndex": 3,
+              "Title": "GetProductsByCategoryEndpoint.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryEndpoint.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryEndpoint.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductsByCategory\\GetProductsByCategoryEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:56:36.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
-              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
-              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T19:02:06.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T19:01:59.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
               "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
               "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T19:01:51.147Z",
               "EditorCaption": ""
@@ -201,7 +255,7 @@
               "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductFeature.cs",
               "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductFeature.cs",
               "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductFeature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T18:44:21.893Z",
               "EditorCaption": ""
@@ -209,28 +263,200 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SharedKernel.Abstractions",
-              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
-              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
-              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
-              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-29T18:43:58.535Z",
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:29:09.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdFeature.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdFeature.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdFeature.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdFeature.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:37:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetProductByIdEndpoint.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:38:08.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Catalog.API",
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:43:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SharedKernel.Utility.csproj",
+              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T19:24:44.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
+              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
+              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:02:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
+              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
+              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\CQRS\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:40:18.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarterExtensions.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
+              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
+              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Utility\\Extensions\\CarterExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:32:38.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductsFeature.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsFeature.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsFeature.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsFeature.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Features\\Products\\GetProducts\\GetProductsFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:59:11.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Microservices\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Microservices\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-30T16:25:40.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Microservices\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Microservices\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-30T16:29:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T16:38:59.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:01:59.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SharedKernel.Abstractions.csproj",
+              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
+              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
+              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Abstractions\\SharedKernel.Abstractions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T18:43:58.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SharedKernel.Utility",
+              "DocumentMoniker": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "ToolTip": "D:\\Microservices\\src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "RelativeToolTip": "src\\SharedKernel\\SharedKernel.Utility\\SharedKernel.Utility.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T20:34:22.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Catalog.API.csproj",
               "DocumentMoniker": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "ToolTip": "D:\\Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeToolTip": "src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-29T17:30:41.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T17:30:41.455Z"
             }
           ]
         }

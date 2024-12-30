@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel.Abstractions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel.Utility", "src\SharedKernel\SharedKernel.Utility\SharedKernel.Utility.csproj", "{96F2EB82-FFEC-4093-8697-D21C0E4606A1}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A146AC6E-2204-4F85-90BC-2F61612108FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +72,18 @@ Global
 		{96F2EB82-FFEC-4093-8697-D21C0E4606A1}.Release|x64.Build.0 = Release|Any CPU
 		{96F2EB82-FFEC-4093-8697-D21C0E4606A1}.Release|x86.ActiveCfg = Release|Any CPU
 		{96F2EB82-FFEC-4093-8697-D21C0E4606A1}.Release|x86.Build.0 = Release|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Debug|x64.Build.0 = Debug|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Release|x64.Build.0 = Release|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A146AC6E-2204-4F85-90BC-2F61612108FE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
