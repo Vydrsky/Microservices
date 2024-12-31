@@ -7,7 +7,7 @@ public static class GetProductsEndpoint {
 
     public record Response(IEnumerable<Product> Products);
 
-    public class Endpoint : ICarterModule {
+    internal class Endpoint : ICarterModule {
         public void AddRoutes(IEndpointRouteBuilder app) {
             app.MapGet("/products", async (ISender sender) => {
                 var query = new GetProductsFeature.Query();

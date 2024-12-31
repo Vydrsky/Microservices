@@ -13,7 +13,7 @@ public static class GetProductByIdFeature {
         public async Task<Result> Handle(Query query, CancellationToken cancellationToken) {
             var product = await session.LoadAsync<Product>(query.Id);
             if (product == null) {
-                throw new ProductNotFoundException();
+                throw new ProductNotFoundException(query.Id);
             }
             return new Result(product);
         }

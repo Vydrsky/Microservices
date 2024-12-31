@@ -20,4 +20,13 @@ public static class CreateProductFeature {
             return new Result(product.Id);
         }
     }
+
+    public class Validator : AbstractValidator<Command> {
+        public Validator() {
+            RuleFor(x => x.Name).NotEmpty().WithMessage("Name is required.");
+            RuleFor(x => x.Categories).NotEmpty().WithMessage("Categories are required.");
+            RuleFor(x => x.ImageFile).NotEmpty().WithMessage("Image file is required.");
+            RuleFor(x => x.Price).GreaterThan(0).WithMessage("Price must be greater than 0.");
+        }
+    }
 }

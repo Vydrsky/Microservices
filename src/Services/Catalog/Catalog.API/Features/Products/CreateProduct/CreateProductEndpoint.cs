@@ -5,7 +5,7 @@ public static class CreateProductEndpoint {
 
     public record Response(Guid Id);
 
-    public class Endpoint : ICarterModule {
+    internal class Endpoint : ICarterModule {
         public void AddRoutes(IEndpointRouteBuilder app) {
             app.MapPost("/products", async (Request request, ISender sender) => {
                 var command = request.Adapt<CreateProductFeature.Command>();

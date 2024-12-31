@@ -8,10 +8,8 @@ public static class GetProductsByCategoryFeature {
 
     public record Result(IEnumerable<Product> Products);
 
-    internal class Handler(IDocumentSession session, ILogger<Handler> logger) : IQueryHandler<Query, Result> {
+    internal class Handler(IDocumentSession session) : IQueryHandler<Query, Result> {
         public async Task<Result> Handle(Query query, CancellationToken cancellationToken) {
-            logger.LogInformation("GetProductsByCategoryFeature.Handle called with {@Query}", query);
-
             var products = await session.Query<Product>().Where(p => p.Categories.Contains(query.Category)).ToListAsync();
 
             return new Result(products);

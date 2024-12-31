@@ -8,10 +8,8 @@ public static class GetProductsFeature {
 
     public record Result(IEnumerable<Product> Products);
 
-    internal class Handler(IDocumentSession session, ILogger<Handler> logger) : IQueryHandler<Query, Result> {
+    internal class Handler(IDocumentSession session) : IQueryHandler<Query, Result> {
         public async Task<Result> Handle(Query query, CancellationToken cancellationToken) {
-            logger.LogInformation("GetProductsFeature.Handler called with {@Query}", query);
-
             var products = await session.Query<Product>().ToListAsync(cancellationToken);
 
             return new Result(products);

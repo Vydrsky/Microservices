@@ -1,6 +1,8 @@
-﻿namespace Catalog.API.Exceptions;
+﻿using SharedKernel.Utility.Exceptions;
 
-public class ProductNotFoundException : Exception {
-    public ProductNotFoundException() : base("Product not found.") {
+namespace Catalog.API.Exceptions;
+
+public class ProductNotFoundException : NotFoundException {
+    public ProductNotFoundException(Guid id) : base("Product", id) {
     }
 }

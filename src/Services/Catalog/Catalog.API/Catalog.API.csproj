@@ -13,8 +13,8 @@
   <ItemGroup>
     <PackageReference Include="Marten" Version="7.35.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
-    <PackageReference Include="SharedKernel.Abstractions" Version="1.0.1" />
-    <PackageReference Include="SharedKernel.Utility" Version="1.0.1" />
+    <PackageReference Include="SharedKernel.Abstractions" Version="1.0.4" />
+    <PackageReference Include="SharedKernel.Utility" Version="1.0.8" />
   </ItemGroup>
 
 </Project>
